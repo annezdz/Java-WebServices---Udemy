@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tns:patient xmlns:tns="http://www.bharatthippireddy.com/Patient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bharatthippireddy.com/Patient Patient.xsd ">
-  <tns:id>1</tns:id>
-  <tns:name>aNNEe</tns:name>
-  <tns:age>0</tns:age>
+  
+  <tns:name>Eduardo</tns:name>
+  <tns:age>35</tns:age>
   <tns:dob>2001-01-01</tns:dob>
   <tns:email>tns:email</tns:email>
-  <tns:gender>F</tns:gender>
+  <tns:email>tns:email</tns:email>
+  <tns:email>tns:email</tns:email>
+  <tns:email>tns:email</tns:email>
+  
+  <tns:gender>M</tns:gender>
   <tns:phone>tns:phone</tns:phone>
+  <tns:payment>
+    <tns:insurance>
+    <tns:provider>Blue Cross</tns:provider>
+    <tns:limit>100000</tns:limit>
+    </tns:insurance>
+  </tns:payment>
 </tns:patient>
